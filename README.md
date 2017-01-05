@@ -1,4 +1,4 @@
-  Comparaison des PIBs nominaux et PPA des pays du G20
+#  Comparaison des PIBs nominaux et PPA des pays du G20
 
 A partir des données sur le PIB nominal et le PIB PPA des pays du G20 (Nominal19.csv et ppp19.csv), nous avons effectué la moyenne de ces valeurs entre 1990 et 2007 pour chaque pays, et représenté sur le graphique nominalppa.png le PIB nominal en fonction du PIB PPA de chaque pays.
 
